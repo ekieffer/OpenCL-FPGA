@@ -1,6 +1,6 @@
-site_name: Introduction to FPGA programming with OpenCL
+site_name: FPGA programming with OpenCL
 nav:
-  - Home: 'index.md'
+  - Introduction: 'intro.md'
 site_description: Webinar/Tutorial on how to use the Intel FPGA SDK
 site_author: Emmanuel Kieffer
 site_dir: public
@@ -19,7 +19,6 @@ copyright: Copyright &copy; 2023 E. Kieffer
 
 theme:
   name: material
-  logo: images/opencl3_rgb_wht.svg
   language: en
     #  palette:
     #    primary: blue
