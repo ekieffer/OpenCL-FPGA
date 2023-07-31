@@ -1,2 +1,2 @@
 # OpenCL-FPGA
-Developing Applications with OpenCL applications with FPGA acceleration
+Developing Applications with OpenCL on FPGA hardware
