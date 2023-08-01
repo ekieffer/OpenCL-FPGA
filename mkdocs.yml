@@ -1,6 +1,11 @@
 site_name: FPGA programming with OpenCL
 nav:
+  - Course description: 'index.md'
   - Introduction: 'intro.md'
+  - OpenCL kernels: 'kernels.md'
+  - Reporting & Profiling: 'rep_pro.md'
+  - Kernel optimization: 'opt.md'
+  - Channels & pipes: 'chan_pip.md'
 site_description: Webinar/Tutorial on how to use the Intel FPGA SDK
 site_author: Emmanuel Kieffer
 site_dir: public
