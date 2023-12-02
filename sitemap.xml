@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/intro/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/kernels/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/rep_pro/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/opt/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/chan_pip/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ekieffer.github.io/OpenCL-FPGA/references/</loc>
+     <lastmod>2023-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
